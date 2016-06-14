@@ -1,4 +1,8 @@
 class MainActivity
 {
-  public void onCreate(){}
+  public void onCreate(){
+    super.onCreate();
+    setContentView();
+    
+  }
 }
